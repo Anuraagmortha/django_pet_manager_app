@@ -16,15 +16,11 @@ A Django application to manage pet-related information, facilitating CRUD operat
    python -m venv venv
    venv\Scripts\activate
    ```
-4. Install the dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-5. Apply the migrations:
+4. Apply the migrations:
    ```
    python manage.py migrate
    ```
-6. Run the server:
+5. Run the server:
    ```
    python manage.py runserver
    ```  
@@ -50,3 +46,6 @@ When you click on any pet, You will be able to view the pet details as follows:
   
 ![image](https://github.com/user-attachments/assets/856ee348-1cc7-4958-85ae-bd232e015293)  
 
+## Learn More  
+  
+ [Django documentation](https://docs.djangoproject.com/): To learn more about Django and its capabilities, visit this official documentation.  
